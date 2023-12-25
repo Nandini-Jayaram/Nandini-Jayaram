@@ -5,7 +5,7 @@
 
 📈 Blending full-stack engineer who can build both the front end and the back end of a website with a pinch of design magic.
 
-## A Developer 👩‍💻 who believes "Coding = Magic🪄 " 
+## A developer who believes in "Coding = Magic🪄 " 
 
 Make it work✨, make it right✔️, make it fast⏩!!
 
